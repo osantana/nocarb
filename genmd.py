@@ -11,10 +11,20 @@ with codecs.open(filename, "r", "utf-8") as f:
     products = json.load(f)
 
 print "# Sem Carboidrato"
+print
+print "## Índice"
 
-for product in products:
+print
+for product in sorted(products, key=lambda p: p['name']):
+    slug = product["name"].lower().replace(" ", "-").replace("%", "")
+    print "* [{}](#{})".format(product["name"].encode("utf-8"), slug.encode("utf-8"))
+
+print
+print "## Produtos"
+
+for product in sorted(products, key=lambda p: p['name']):
     print
-    print "## {} - {}".format(product["name"].encode("utf-8"), product["portion"].encode("utf-8"))
+    print "### {} - {}".format(product["name"].encode("utf-8"), product["portion"].encode("utf-8"))
 
     nutrients = product['nutrients']
     name_length = len(sorted(nutrients.keys(), key=len)[-1]) + 8  # bold markup for carb

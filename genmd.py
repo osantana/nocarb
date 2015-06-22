@@ -29,7 +29,7 @@ for product in products:
     carb = nutrients.pop('carboidratos', '0g')
     print row_template.format('**Carboidrato**', "**{}**".format(carb))
 
-    for nutrient in nutrients:
+    for nutrient in sorted(nutrients):
         print row_template.format(nutrient.title().encode("utf-8"), nutrients[nutrient].encode("utf-8"))
 
     print

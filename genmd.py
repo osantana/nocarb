@@ -10,14 +10,17 @@ filename = sys.argv[1]
 with codecs.open(filename, "r", "utf-8") as f:
     products = json.load(f)
 
+title_template = "### {} - {}"
+
 print "# Sem Carboidrato"
 print
 print "## Índice"
 
 print
 for product in sorted(products, key=lambda p: p['name']):
-    slug = product["name"].lower().replace(" ", "-").replace("%", "")
-    print "* [{}](#{})".format(product["name"].encode("utf-8"), slug.encode("utf-8"))
+    title = title_template.format(product["name"].encode("utf-8"), product["portion"].encode("utf-8"))
+    slug = title.lower().replace("#", "").strip().replace(" ", "-").replace("%", "")
+    print "* [{}](#{})".format(product["name"].encode("utf-8"), slug)
 
 print
 print "## Produtos"

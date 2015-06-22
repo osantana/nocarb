@@ -172,6 +172,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 102.8mg           |
 | Cálcio                          | 22.6mg            |
@@ -195,6 +196,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Cobre                            | 0.1ug            |
 | Colesterol                       | 31.4mg           |
 | Cálcio                          | 10.2mg           |
@@ -219,6 +221,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Colesterol                       | 135.9mg           |
 | Cálcio                          | 20.2mg            |
 | Ferro                            | 0.3mg             |
@@ -243,6 +246,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Cobre                            | 0.0ug            |
 | Colesterol                       | 86.9mg           |
 | Cálcio                          | 16.7mg           |
@@ -265,6 +269,7 @@
 | Nutriente                | Qtd             |
 | ------------------------ | --------------- |
 | **Carboidrato**          | **0g**          |
+| **Fibra Alimentar**      | **0g**          |
 | Valor Energético        | 0.0kcal         |
 
 
@@ -273,6 +278,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 52.9mg            |
 | Cálcio                          | 6.5mg             |
@@ -298,6 +304,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 47.8mg            |
 | Cálcio                          | 6.7mg             |
@@ -322,8 +329,8 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0.0g**          |
+| **Fibra Alimentar**              | **0.0g**          |
 | Colesterol                       | 65.0mg            |
-| Fibra Alimentar                  | 0.0g              |
 | Gorduras Monoinsaturadas         | 0.3g              |
 | Gorduras Poliinsaturadas         | 0.0g              |
 | Gorduras Saturadas               | 0.7g              |
@@ -340,6 +347,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 138.9mg           |
 | Cálcio                          | 157.0mg           |
@@ -364,7 +372,7 @@
 | Nutriente                  | Qtd               |
 | -------------------------- | ----------------- |
 | **Carboidrato**            | **0g**            |
-| Fibra Alimentar            | 5.6g              |
+| **Fibra Alimentar**        | **5.6g**          |
 | Gorduras Saturadas         | 6.4g              |
 | Gorduras Totais            | 8.4g              |
 | Gorduras Trans             | 0.0g              |
@@ -378,6 +386,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 256.6mg           |
 | Cálcio                          | 26.0mg            |
@@ -405,6 +414,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Cobre                            | 0.2ug            |
 | Colesterol                       | 240.9mg          |
 | Cálcio                          | 89.7mg           |
@@ -429,6 +439,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Cobre                            | 0.1ug            |
 | Colesterol                       | 124.0mg          |
 | Cálcio                          | 51.1mg           |
@@ -453,6 +464,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Cobre                            | 0.7ug            |
 | Colesterol                       | 84.6mg           |
 | Cálcio                          | 357.2mg          |
@@ -478,6 +490,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 103.1mg           |
 | Cálcio                          | 4.0mg             |
@@ -503,11 +516,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.0g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 57.9mg            |
 | Cálcio                          | 2.6mg             |
 | Ferro                            | 1.8mg             |
-| Fibras Solúveis                 | 0.0g              |
 | Fósforo                         | 157.6mg           |
 | Gorduras Monoinsaturadas         | 2.4g              |
 | Gorduras Poliinsaturadas         | 0.1g              |
@@ -531,11 +544,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.1g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 106.8mg           |
 | Cálcio                          | 7.1mg             |
 | Ferro                            | 2.4mg             |
-| Fibras Solúveis                 | 0.1g              |
 | Fósforo                         | 164.2mg           |
 | Gorduras Monoinsaturadas         | 3.7g              |
 | Gorduras Poliinsaturadas         | 0.3g              |
@@ -557,6 +570,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 53.4mg            |
 | Cálcio                          | 4.7mg             |
@@ -583,6 +597,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 245.5mg           |
 | Cálcio                          | 13.2mg            |
@@ -607,6 +622,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 144.9mg           |
 | Cálcio                          | 9.1mg             |
@@ -631,11 +647,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.1g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 62.8mg            |
 | Cálcio                          | 5.9mg             |
 | Ferro                            | 1.5mg             |
-| Fibras Solúveis                 | 0.1g              |
 | Fósforo                         | 144.2mg           |
 | Gorduras Monoinsaturadas         | 6.2g              |
 | Gorduras Poliinsaturadas         | 0.1g              |
@@ -660,6 +676,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 120.4mg           |
 | Cálcio                          | 7.3mg             |
@@ -684,6 +701,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 58.4mg            |
 | Cálcio                          | 6.5mg             |
@@ -708,6 +726,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 80.3mg            |
 | Cálcio                          | 8.8mg             |
@@ -734,6 +753,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 113.4mg           |
 | Cálcio                          | 14.9mg            |
@@ -760,6 +780,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 80.7mg            |
 | Cálcio                          | 15.2mg            |
@@ -785,11 +806,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.0g**          |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 72.7mg            |
 | Cálcio                          | 3.7mg             |
 | Ferro                            | 1.3mg             |
-| Fibras Solúveis                 | 0.0g              |
 | Fósforo                         | 164.2mg           |
 | Gorduras Monoinsaturadas         | 5.5g              |
 | Gorduras Poliinsaturadas         | 0.2g              |
@@ -814,11 +835,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.1g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 143.9mg           |
 | Cálcio                          | 4.5mg             |
 | Ferro                            | 2.4mg             |
-| Fibras Solúveis                 | 0.1g              |
 | Fósforo                         | 218.5mg           |
 | Gorduras Monoinsaturadas         | 6.3g              |
 | Gorduras Poliinsaturadas         | 0.2g              |
@@ -840,6 +861,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 52.3mg            |
 | Cálcio                          | 3.2mg             |
@@ -866,11 +888,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.2g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 97.9mg            |
 | Cálcio                          | 4.3mg             |
 | Ferro                            | 2.8mg             |
-| Fibras Solúveis                 | 0.2g              |
 | Fósforo                         | 251.9mg           |
 | Gorduras Monoinsaturadas         | 5.6g              |
 | Gorduras Poliinsaturadas         | 0.2g              |
@@ -893,6 +915,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 59.5mg            |
 | Cálcio                          | 4.2mg             |
@@ -917,11 +940,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.2g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 101.9mg           |
 | Cálcio                          | 5.0mg             |
 | Ferro                            | 2.4mg             |
-| Fibras Solúveis                 | 0.2g              |
 | Fósforo                         | 240.6mg           |
 | Gorduras Monoinsaturadas         | 1.9g              |
 | Gorduras Poliinsaturadas         | 0.1g              |
@@ -943,11 +966,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.4g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 94.6mg            |
 | Cálcio                          | 28.1mg            |
 | Ferro                            | 2.2mg             |
-| Fibras Solúveis                 | 0.4g              |
 | Fósforo                         | 179.1mg           |
 | Gorduras Monoinsaturadas         | 12.1g             |
 | Gorduras Poliinsaturadas         | 0.3g              |
@@ -969,6 +992,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Colesterol                       | 44.2mg            |
 | Ferro                            | 1.2mg             |
 | Fósforo                         | 130.0mg           |
@@ -993,6 +1017,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 71.1mg            |
 | Cálcio                          | 4.0mg             |
@@ -1017,6 +1042,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 60.0mg            |
 | Cálcio                          | 3.0mg             |
@@ -1043,6 +1069,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 84.2mg            |
 | Cálcio                          | 3.7mg             |
@@ -1067,6 +1094,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 83.8mg            |
 | Cálcio                          | 3.0mg             |
@@ -1093,11 +1121,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.1g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 90.8mg            |
 | Cálcio                          | 7.6mg             |
 | Ferro                            | 2.7mg             |
-| Fibras Solúveis                 | 0.1g              |
 | Fósforo                         | 212.3mg           |
 | Gorduras Monoinsaturadas         | 5.4g              |
 | Gorduras Poliinsaturadas         | 0.2g              |
@@ -1119,11 +1147,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.0g**          |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 51.0mg            |
 | Cálcio                          | 3.6mg             |
 | Ferro                            | 1.1mg             |
-| Fibras Solúveis                 | 0.0g              |
 | Fósforo                         | 220.1mg           |
 | Gorduras Monoinsaturadas         | 6.4g              |
 | Gorduras Poliinsaturadas         | 0.2g              |
@@ -1147,11 +1175,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.0g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 54.8mg            |
 | Cálcio                          | 2.9mg             |
 | Ferro                            | 1.9mg             |
-| Fibras Solúveis                 | 0.0g              |
 | Fósforo                         | 192.8mg           |
 | Gorduras Monoinsaturadas         | 1.9g              |
 | Gorduras Poliinsaturadas         | 0.2g              |
@@ -1176,11 +1204,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.1g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 102.9mg           |
 | Cálcio                          | 4.3mg             |
 | Ferro                            | 2.9mg             |
-| Fibras Solúveis                 | 0.1g              |
 | Fósforo                         | 308.1mg           |
 | Gorduras Monoinsaturadas         | 3.1g              |
 | Gorduras Poliinsaturadas         | 0.2g              |
@@ -1204,6 +1232,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 62.0mg            |
 | Cálcio                          | 3.5mg             |
@@ -1228,6 +1257,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 50.3mg            |
 | Cálcio                          | 2.8mg             |
@@ -1254,11 +1284,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.1g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 64.9mg            |
 | Cálcio                          | 3.2mg             |
 | Ferro                            | 2.0mg             |
-| Fibras Solúveis                 | 0.1g              |
 | Fósforo                         | 160.6mg           |
 | Gorduras Monoinsaturadas         | 10.4g             |
 | Gorduras Poliinsaturadas         | 0.5g              |
@@ -1280,11 +1310,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.0g**          |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 54.3mg            |
 | Cálcio                          | 3.1mg             |
 | Ferro                            | 1.5mg             |
-| Fibras Solúveis                 | 0.0g              |
 | Fósforo                         | 131.4mg           |
 | Gorduras Monoinsaturadas         | 6.5g              |
 | Gorduras Poliinsaturadas         | 0.3g              |
@@ -1308,6 +1338,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 55.7mg            |
 | Cálcio                          | 3.5mg             |
@@ -1332,11 +1363,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.0g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 55.8mg            |
 | Cálcio                          | 2.6mg             |
 | Ferro                            | 1.3mg             |
-| Fibras Solúveis                 | 0.0g              |
 | Fósforo                         | 184.7mg           |
 | Gorduras Monoinsaturadas         | 2.3g              |
 | Gorduras Poliinsaturadas         | 0.1g              |
@@ -1360,6 +1391,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 105.1mg           |
 | Cálcio                          | 5.9mg             |
@@ -1385,6 +1417,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 117.9mg           |
 | Cálcio                          | 5.0mg             |
@@ -1411,11 +1444,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.0g**          |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 50.8mg            |
 | Cálcio                          | 2.8mg             |
 | Ferro                            | 1.2mg             |
-| Fibras Solúveis                 | 0.0g              |
 | Fósforo                         | 181.3mg           |
 | Gorduras Monoinsaturadas         | 3.1g              |
 | Gorduras Poliinsaturadas         | 0.1g              |
@@ -1439,11 +1472,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.1g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 87.7mg            |
 | Cálcio                          | 4.2mg             |
 | Ferro                            | 2.4mg             |
-| Fibras Solúveis                 | 0.1g              |
 | Fósforo                         | 237.5mg           |
 | Gorduras Monoinsaturadas         | 7.7g              |
 | Gorduras Poliinsaturadas         | 0.2g              |
@@ -1465,6 +1498,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 60.4mg            |
 | Cálcio                          | 3.2mg             |
@@ -1492,11 +1526,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.1g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 92.2mg            |
 | Cálcio                          | 4.5mg             |
 | Ferro                            | 3.2mg             |
-| Fibras Solúveis                 | 0.1g              |
 | Fósforo                         | 279.2mg           |
 | Gorduras Monoinsaturadas         | 4.9g              |
 | Gorduras Poliinsaturadas         | 0.3g              |
@@ -1520,6 +1554,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 56.2mg            |
 | Cálcio                          | 5.0mg             |
@@ -1544,11 +1579,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.0g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 50.9mg            |
 | Cálcio                          | 3.6mg             |
 | Ferro                            | 1.9mg             |
-| Fibras Solúveis                 | 0.0g              |
 | Fósforo                         | 162.2mg           |
 | Gorduras Monoinsaturadas         | 2.6g              |
 | Gorduras Poliinsaturadas         | 0.1g              |
@@ -1572,6 +1607,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 58.3mg            |
 | Cálcio                          | 4.4mg             |
@@ -1597,6 +1633,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 55.6mg            |
 | Cálcio                          | 5.6mg             |
@@ -1622,6 +1659,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 42.3mg            |
 | Cálcio                          | 3.6mg             |
@@ -1648,6 +1686,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 55.6mg            |
 | Cálcio                          | 3.3mg             |
@@ -1675,6 +1714,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 125.7mg           |
 | Cálcio                          | 4.8mg             |
@@ -1701,6 +1741,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 99.5mg            |
 | Cálcio                          | 4.0mg             |
@@ -1725,11 +1766,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.0g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 59.3mg            |
 | Cálcio                          | 3.9mg             |
 | Ferro                            | 1.3mg             |
-| Fibras Solúveis                 | 0.0g              |
 | Fósforo                         | 124.4mg           |
 | Gorduras Monoinsaturadas         | 9.2g              |
 | Gorduras Poliinsaturadas         | 0.5g              |
@@ -1753,6 +1794,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 59.6mg            |
 | Cálcio                          | 2.4mg             |
@@ -1779,11 +1821,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.1g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 91.8mg            |
 | Cálcio                          | 4.0mg             |
 | Ferro                            | 3.2mg             |
-| Fibras Solúveis                 | 0.1g              |
 | Fósforo                         | 246.0mg           |
 | Gorduras Monoinsaturadas         | 9.2g              |
 | Gorduras Poliinsaturadas         | 0.4g              |
@@ -1806,6 +1848,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 75.2mg            |
 | Cálcio                          | 3.4mg             |
@@ -1830,11 +1873,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.0g**          |
 | Cobre                            | 0.2ug             |
 | Colesterol                       | 99.7mg            |
 | Cálcio                          | 4.4mg             |
 | Ferro                            | 3.6mg             |
-| Fibras Solúveis                 | 0.0g              |
 | Fósforo                         | 281.9mg           |
 | Gorduras Monoinsaturadas         | 5.2g              |
 | Gorduras Poliinsaturadas         | 0.3g              |
@@ -1857,6 +1900,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 100.1mg           |
 | Cálcio                          | 12.8mg            |
@@ -1882,6 +1926,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Colesterol                       | 91.6mg            |
 | Cálcio                          | 14.1mg            |
 | Ferro                            | 1.3mg             |
@@ -1906,6 +1951,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 83.3mg            |
 | Cálcio                          | 10.3mg            |
@@ -1931,6 +1977,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Cobre                            | 0.1ug            |
 | Colesterol                       | 36.1mg           |
 | Cálcio                          | 8.7mg            |
@@ -1957,6 +2004,7 @@
 | Nutriente        | Qtd            |
 | ---------------- | -------------- |
 | **Carboidrato**  | **0g**         |
+| **Fibra Alimentar** | **0g**         |
 | Potássio        | 18.5mg         |
 
 
@@ -1965,6 +2013,7 @@
 | Nutriente        | Qtd            |
 | ---------------- | -------------- |
 | **Carboidrato**  | **0g**         |
+| **Fibra Alimentar** | **0g**         |
 | Potássio        | 18.5mg         |
 
 
@@ -1973,6 +2022,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 40.2mg            |
 | Cálcio                          | 40.1mg            |
@@ -1997,6 +2047,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 80.1mg            |
 | Cálcio                          | 22.3mg            |
@@ -2023,6 +2074,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 74.6mg            |
 | Cálcio                          | 64.7mg            |
@@ -2047,6 +2099,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 73.1mg            |
 | Cálcio                          | 39.4mg            |
@@ -2072,6 +2125,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Cobre                            | 0.0ug            |
 | Colesterol                       | 67.1mg           |
 | Ferro                            | 0.4mg            |
@@ -2098,6 +2152,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 117.1mg           |
 | Cálcio                          | 60.2mg            |
@@ -2124,6 +2179,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 122.6mg           |
 | Cálcio                          | 69.4mg            |
@@ -2150,7 +2206,7 @@
 | Nutriente                  | Qtd               |
 | -------------------------- | ----------------- |
 | **Carboidrato**            | **0.0g**          |
-| Fibra Alimentar            | 0.0g              |
+| **Fibra Alimentar**        | **0.0g**          |
 | Gorduras Saturadas         | 16.0g             |
 | Gorduras Totais            | 25.3g             |
 | Gorduras Trans             | 0.0g              |
@@ -2164,6 +2220,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 144.0mg           |
 | Cálcio                          | 11.3mg            |
@@ -2188,6 +2245,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 52.0mg            |
 | Cálcio                          | 12.1mg            |
@@ -2212,6 +2270,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 113.5mg           |
 | Cálcio                          | 10.9mg            |
@@ -2239,6 +2298,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 109.6mg           |
 | Cálcio                          | 16.8mg            |
@@ -2265,6 +2325,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.2ug             |
 | Colesterol                       | 105.5mg           |
 | Cálcio                          | 66.1mg            |
@@ -2292,6 +2353,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.2ug             |
 | Colesterol                       | 159.2mg           |
 | Cálcio                          | 5.5mg             |
@@ -2319,6 +2381,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 97.4mg            |
 | Cálcio                          | 8.0mg             |
@@ -2346,6 +2409,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 132.9mg           |
 | Cálcio                          | 11.8mg            |
@@ -2370,6 +2434,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.3ug             |
 | Colesterol                       | 340.6mg           |
 | Cálcio                          | 5.6mg             |
@@ -2397,6 +2462,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 84.8mg            |
 | Cálcio                          | 6.3mg             |
@@ -2424,6 +2490,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 110.9mg           |
 | Cálcio                          | 9.1mg             |
@@ -2448,6 +2515,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 98.9mg            |
 | Cálcio                          | 8.2mg             |
@@ -2472,6 +2540,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 78.2mg            |
 | Cálcio                          | 6.5mg             |
@@ -2499,6 +2568,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 109.0mg           |
 | Cálcio                          | 8.3mg             |
@@ -2525,6 +2595,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 79.9mg            |
 | Cálcio                          | 8.4mg             |
@@ -2551,6 +2622,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 88.5mg            |
 | Cálcio                          | 6.4mg             |
@@ -2575,6 +2647,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 58.7mg            |
 | Cálcio                          | 7.4mg             |
@@ -2600,6 +2673,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 89.1mg            |
 | Cálcio                          | 5.3mg             |
@@ -2624,6 +2698,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 158.3mg           |
 | Cálcio                          | 10.7mg            |
@@ -2650,6 +2725,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 87.6mg            |
 | Cálcio                          | 7.1mg             |
@@ -2677,6 +2753,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 145.1mg           |
 | Cálcio                          | 12.3mg            |
@@ -2703,6 +2780,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 84.1mg            |
 | Cálcio                          | 6.3mg             |
@@ -2730,7 +2808,7 @@
 | Nutriente                  | Qtd               |
 | -------------------------- | ----------------- |
 | **Carboidrato**            | **0.0g**          |
-| Fibra Alimentar            | 0.0g              |
+| **Fibra Alimentar**        | **0.0g**          |
 | Gorduras Saturadas         | 4.0g              |
 | Gorduras Totais            | 13.0g             |
 | Gorduras Trans             | 0.0g              |
@@ -2744,6 +2822,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 158.7mg           |
 | Cálcio                          | 1181.3mg          |
@@ -2770,11 +2849,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.0g**          |
 | Cobre                            | 0.3ug             |
 | Colesterol                       | 246.3mg           |
 | Cálcio                          | 1881.0mg          |
 | Ferro                            | 0.8mg             |
-| Fibras Solúveis                 | 0.0g              |
 | Fósforo                         | 1067.3mg          |
 | Gorduras Monoinsaturadas         | 7.0g              |
 | Gorduras Poliinsaturadas         | 8.1g              |
@@ -2799,11 +2878,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.1g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 144.3mg           |
 | Cálcio                          | 590.3mg           |
 | Ferro                            | 0.6mg             |
-| Fibras Solúveis                 | 0.1g              |
 | Fósforo                         | 440.9mg           |
 | Gorduras Monoinsaturadas         | 3.3g              |
 | Gorduras Poliinsaturadas         | 1.1g              |
@@ -2826,6 +2905,7 @@
 | Nutriente                  | Qtd               |
 | -------------------------- | ----------------- |
 | **Carboidrato**            | **0g**            |
+| **Fibra Alimentar**        | **0g**            |
 | Colesterol                 | 0.0mg             |
 | Gorduras Saturadas         | 18.0g             |
 | Gorduras Totais            | 20.0g             |
@@ -2838,6 +2918,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 64.1mg            |
 | Cálcio                          | 10.8mg            |
@@ -2864,6 +2945,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 75.8mg            |
 | Cálcio                          | 15.5mg            |
@@ -2890,6 +2972,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 80.5mg            |
 | Cálcio                          | 13.9mg            |
@@ -2916,6 +2999,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 52.9mg            |
 | Cálcio                          | 6.1mg             |
@@ -2942,6 +3026,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 74.7mg            |
 | Cálcio                          | 8.5mg             |
@@ -2968,6 +3053,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 81.7mg            |
 | Cálcio                          | 8.1mg             |
@@ -2994,6 +3080,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 270.3mg           |
 | Cálcio                          | 575.0mg           |
@@ -3021,7 +3108,7 @@
 | Nutriente                  | Qtd               |
 | -------------------------- | ----------------- |
 | **Carboidrato**            | **0.0g**          |
-| Fibra Alimentar            | 0.0g              |
+| **Fibra Alimentar**        | **0.0g**          |
 | Gorduras Saturadas         | 55.0g             |
 | Gorduras Totais            | 80.0g             |
 | Gorduras Trans             | 0.0g              |
@@ -3035,6 +3122,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 214.0mg           |
 | Cálcio                          | 3.6mg             |
@@ -3056,7 +3144,7 @@
 | Nutriente                  | Qtd               |
 | -------------------------- | ----------------- |
 | **Carboidrato**            | **0.0g**          |
-| Fibra Alimentar            | 0.0g              |
+| **Fibra Alimentar**        | **0.0g**          |
 | Gorduras Saturadas         | 57.0g             |
 | Gorduras Totais            | 82.0g             |
 | Gorduras Trans             | 0.0g              |
@@ -3070,6 +3158,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cálcio                          | 5.6mg             |
 | Ferro                            | 0.1mg             |
 | Fósforo                         | 7.3mg             |
@@ -3089,6 +3178,7 @@
 | Nutriente                | Qtd               |
 | ------------------------ | ----------------- |
 | **Carboidrato**          | **0g**            |
+| **Fibra Alimentar**      | **0g**            |
 | Cálcio                  | 2.6mg             |
 | Ferro                    | 0.1mg             |
 | Fósforo                 | 3.8mg             |
@@ -3105,6 +3195,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cálcio                          | 4.5mg             |
 | Fósforo                         | 6.0mg             |
 | Gorduras Monoinsaturadas         | 15.0g             |
@@ -3123,6 +3214,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cálcio                          | 5.0mg             |
 | Ferro                            | 0.1mg             |
 | Fósforo                         | 7.2mg             |
@@ -3142,6 +3234,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 91.0mg            |
 | Cálcio                          | 35.9mg            |
@@ -3167,6 +3260,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Colesterol                       | 57.2mg           |
 | Cálcio                          | 20.4mg           |
 | Ferro                            | 0.2mg            |
@@ -3190,6 +3284,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 109.1mg           |
 | Cálcio                          | 35.6mg            |
@@ -3215,6 +3310,7 @@
 | Nutriente                | Qtd              |
 | ------------------------ | ---------------- |
 | **Carboidrato**          | **0g**           |
+| **Fibra Alimentar**      | **0g**           |
 | Cobre                    | 0.0ug            |
 | Cálcio                  | 6.2mg            |
 | Ferro                    | 0.1mg            |
@@ -3233,7 +3329,7 @@
 | Nutriente                  | Qtd             |
 | -------------------------- | --------------- |
 | **Carboidrato**            | **0.0g**        |
-| Fibra Alimentar            | 0.0g            |
+| **Fibra Alimentar**        | **0.0g**        |
 | Gorduras Saturadas         | 5.0g            |
 | Gorduras Totais            | 15.0g           |
 | Gorduras Trans             | 0.0g            |
@@ -3246,6 +3342,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 91.2mg            |
 | Cálcio                          | 13.8mg            |
@@ -3271,6 +3368,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Cobre                            | 0.4ug            |
 | Colesterol                       | 68.2mg           |
 | Cálcio                          | 9.9mg            |
@@ -3295,6 +3393,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Colesterol                       | 50.8mg            |
 | Cálcio                          | 15.7mg            |
 | Ferro                            | 0.2mg             |
@@ -3320,6 +3419,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 165.4mg           |
 | Cálcio                          | 378.3mg           |
@@ -3347,6 +3447,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Colesterol                       | 64.8mg            |
 | Cálcio                          | 13.6mg            |
 | Ferro                            | 0.2mg             |
@@ -3372,6 +3473,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 80.8mg            |
 | Cálcio                          | 10.3mg            |
@@ -3397,6 +3499,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Cobre                            | 0.1ug            |
 | Colesterol                       | 83.6mg           |
 | Cálcio                          | 331.6mg          |
@@ -3422,6 +3525,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 126.0mg           |
 | Cálcio                          | 113.5mg           |
@@ -3448,6 +3552,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Cobre                            | 0.0ug            |
 | Colesterol                       | 50.3mg           |
 | Cálcio                          | 12.0mg           |
@@ -3472,6 +3577,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 99.3mg            |
 | Cálcio                          | 69.0mg            |
@@ -3498,6 +3604,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 56.4mg            |
 | Cálcio                          | 6.1mg             |
@@ -3522,6 +3629,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 126.3mg           |
 | Cálcio                          | 69.2mg            |
@@ -3548,11 +3656,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.0g**          |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 81.7mg            |
 | Cálcio                          | 34.3mg            |
 | Ferro                            | 0.9mg             |
-| Fibras Solúveis                 | 0.0g              |
 | Fósforo                         | 229.4mg           |
 | Gorduras Monoinsaturadas         | 7.7g              |
 | Gorduras Poliinsaturadas         | 1.2g              |
@@ -3575,6 +3683,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 112.9mg           |
 | Cálcio                          | 16.8mg            |
@@ -3600,6 +3709,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 68.8mg            |
 | Cálcio                          | 14.5mg            |
@@ -3624,11 +3734,11 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibras Solúveis**             | **0.1g**          |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 103.1mg           |
 | Cálcio                          | 19.5mg            |
 | Ferro                            | 0.5mg             |
-| Fibras Solúveis                 | 0.1g              |
 | Fósforo                         | 238.4mg           |
 | Gorduras Monoinsaturadas         | 2.9g              |
 | Gorduras Poliinsaturadas         | 0.7g              |
@@ -3651,6 +3761,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 55.4mg            |
 | Cálcio                          | 4.2mg             |
@@ -3675,6 +3786,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.2ug             |
 | Colesterol                       | 83.0mg            |
 | Cálcio                          | 5.4mg             |
@@ -3700,6 +3812,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 109.8mg           |
 | Cálcio                          | 17.6mg            |
@@ -3726,6 +3839,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.2ug             |
 | Colesterol                       | 58.7mg            |
 | Cálcio                          | 12.9mg            |
@@ -3751,6 +3865,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 89.1mg            |
 | Cálcio                          | 21.6mg            |
@@ -3777,6 +3892,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Cobre                            | 0.0ug            |
 | Colesterol                       | 48.6mg           |
 | Cálcio                          | 25.9mg           |
@@ -3801,6 +3917,7 @@
 | Nutriente                  | Qtd               |
 | -------------------------- | ----------------- |
 | **Carboidrato**            | **0g**            |
+| **Fibra Alimentar**        | **0g**            |
 | Cálcio                    | 1210.0mg          |
 | Gorduras Saturadas         | 14.0g             |
 | Gorduras Totais            | 34.0g             |
@@ -3814,7 +3931,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0.0g**          |
-| Fibra Alimentar                  | 0.0g              |
+| **Fibra Alimentar**              | **0.0g**          |
 | Gorduras Poliinsaturadas         | 0.0g              |
 | Gorduras Saturadas               | 9.7g              |
 | Gorduras Totais                  | 13.0g             |
@@ -3829,6 +3946,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 85.3mg            |
 | Cálcio                          | 28.8mg            |
@@ -3855,6 +3973,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 53.0mg            |
 | Cálcio                          | 8.8mg             |
@@ -3880,6 +3999,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 72.8mg            |
 | Cálcio                          | 15.1mg            |
@@ -3906,6 +4026,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 109.0mg           |
 | Cálcio                          | 437.7mg           |
@@ -3931,8 +4052,8 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0.0g**          |
+| **Fibra Alimentar**              | **0.0g**          |
 | Colesterol                       | 65.0mg            |
-| Fibra Alimentar                  | 0.0g              |
 | Gorduras Monoinsaturadas         | 0.5g              |
 | Gorduras Poliinsaturadas         | 2.2g              |
 | Gorduras Saturadas               | 1.0g              |
@@ -3949,6 +4070,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.0ug             |
 | Colesterol                       | 72.6mg            |
 | Cálcio                          | 550.2mg           |
@@ -3975,6 +4097,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 102.9mg           |
 | Cálcio                          | 482.1mg           |
@@ -4000,6 +4123,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 60.5mg            |
 | Cálcio                          | 167.3mg           |
@@ -4025,6 +4149,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 73.1mg            |
 | Cálcio                          | 2.4mg             |
@@ -4048,6 +4173,7 @@
 | Nutriente                        | Qtd               |
 | -------------------------------- | ----------------- |
 | **Carboidrato**                  | **0g**            |
+| **Fibra Alimentar**              | **0g**            |
 | Cobre                            | 0.1ug             |
 | Colesterol                       | 89.5mg            |
 | Cálcio                          | 9.4mg             |
@@ -4072,6 +4198,7 @@
 | Nutriente                        | Qtd              |
 | -------------------------------- | ---------------- |
 | **Carboidrato**                  | **0g**           |
+| **Fibra Alimentar**              | **0g**           |
 | Cobre                            | 0.1ug            |
 | Colesterol                       | 46.9mg           |
 | Cálcio                          | 19.2mg           |

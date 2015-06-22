@@ -42,6 +42,14 @@ for product in sorted(products, key=lambda p: p['name']):
     carb = nutrients.pop('carboidratos', '0g')
     print row_template.format('**Carboidrato**', "**{}**".format(carb))
 
+    try:
+        fibr_sol = nutrients.pop(u'fibras solúveis')
+        print row_template.format('**Fibras Solúveis**', "**{}**".format(fibr_sol))
+    except KeyError:
+        fibr_ali = nutrients.pop('fibra alimentar', "0g")
+        print row_template.format('**Fibra Alimentar**', "**{}**".format(fibr_ali))
+
+
     for nutrient in sorted(nutrients):
         print row_template.format(nutrient.title().encode("utf-8"), nutrients[nutrient].encode("utf-8"))
 
